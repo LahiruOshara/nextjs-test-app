@@ -14,6 +14,5 @@ export default function ProductDetails() {
             <h1> Product {productId} Details Pgae </h1>
             <button onClick={handleClick} >Add Product</button>
         </dev>
-
     )
 }
