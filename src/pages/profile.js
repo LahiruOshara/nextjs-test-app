@@ -1,7 +1,7 @@
 export default function Root(){
     return(
         <h1>
-            About Pgae
+            Profile Page
         </h1>
     )
 }
