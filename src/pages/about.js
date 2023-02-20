@@ -1,4 +1,4 @@
-export default function Root(){
+export default function About(){
     return(
         <h1>
             About Pgae
